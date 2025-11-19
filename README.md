@@ -56,20 +56,20 @@ O plano de aulas a seguir está alinhado com o Calendário Acadêmico 2025.
 | **10** | [25/08 a 29/08](conteudos/semana-10) | DRF - Serializers: Convertendo `Models` em JSON. | Codificar o arquivo `serializers.py`.                       |
 | **11** | [01/09 a 05/09](conteudos/semana-11) | DRF - Views e Endpoints: Criando a primeira rota para listar dados (GET). | Implementar a `APIView` para listagem de recursos.          |
 | **12** | [08/09 a 12/09](conteudos/semana-12) | DRF - Detalhando a Informação: Endpoint de Detalhe. | Adicionar a funcionalidade de mostrar detalhes.             |
-| **13** |            15/09 a 19/09             | DRF - Detalhando Recursos (GET por ID). | Implementar a `View` de detalhe do recurso.                 |
-| **14** |            22/09 a 26/09             | DRF - Atualizando e Deletando Recursos (PUT e DELETE). | Implementar as funcionalidades de atualização e exclusão.   |
-| **15** |            29/09 a 03/10             | Revisão Geral - Consolidando o fluxo de uma API REST com DRF. | Atividade de revisão integrando todos os conceitos.         |
+| **13** | [15/09 a 19/09](conteudos/semana-13) | DRF - Detalhando Recursos (GET por ID). | Implementar a `View` de detalhe do recurso.                 |
+| **14** | [22/09 a 26/09](conteudos/semana-14) | DRF - Atualizando e Deletando Recursos (PUT e DELETE). | Implementar as funcionalidades de atualização e exclusão.   |
+| **15** | [29/09 a 03/10](conteudos/semana-15) | Revisão Geral - Consolidando o fluxo de uma API REST com DRF. | Atividade de revisão integrando todos os conceitos.         |
 
 ### **4ª Unidade Didática (09/10 a 19/12)**
 
 | Semana | Período | Conteúdo Programático | Atividade Semanal |
 | :---: | :---: | :--- | :--- |
-| **16** | 13/10 a 19/10 | Projeto Final - Planejamento da API. | Entregar o documento de planejamento do projeto. |
-| **17** | 20/10 a 24/10 | Projeto Final - Estrutura e Modelagem do banco de dados. (*Semana Nacional de C&T*) | Entrega da estrutura do projeto com os `models` definidos. |
-| **18** | 27/10 a 31/10 | Projeto Final - Serialização e Listagem de dados (GET). | Entrega do projeto com a listagem implementada. |
-| **19** | 03/11 a 07/11 | Projeto Final - Criação de Dados (POST). | Entrega do projeto com a funcionalidade de criação implementada. |
-| **20** | 10/11 a 14/11 | Projeto Final - Manipulação Completa de Dados (GET, PUT, DELETE). | Entrega do projeto com todas as funcionalidades CRUD. |
-| **21** | 17/11 a 21/11 | Finalização, Testes e Documentação da API. | Gravação de um vídeo (screencast) demonstrando a API. |
+| **16** | [13/10 a 19/10](conteudos/semana-16) | Projeto Final - Planejamento da API. | Entregar o documento de planejamento do projeto. |
+| **17** | [20/10 a 24/10](conteudos/semana-17) | Projeto Final - Estrutura e Modelagem do banco de dados. (*Semana Nacional de C&T*) | Entrega da estrutura do projeto com os `models` definidos. |
+| **18** | [27/10 a 31/10](conteudos/semana-18) | Projeto Final - Serialização e Listagem de dados (GET). | Entrega do projeto com a listagem implementada. |
+| **19** | [03/11 a 07/11](conteudos/semana-19) | Projeto Final - Criação de Dados (POST). | Entrega do projeto com a funcionalidade de criação implementada. |
+| **20** | [10/11 a 14/11](conteudos/semana-20) | Projeto Final - Manipulação Completa de Dados (GET, PUT, DELETE). | Entrega do projeto com todas as funcionalidades CRUD. |
+| **21** | [17/11 a 21/11](conteudos/semana-21) | Finalização, Testes e Documentação da API. | Gravação de um vídeo (screencast) demonstrando a API. |
 | **-** | 24/11 a 19/12 | Período para ajustes finais, fechamento de notas e encerramento da unidade. | - |
 
 ## 📂 Como Utilizar este Repositório
